@@ -1,10 +1,12 @@
 # Baza wiedzy Rademenes12 (Hermes) — indeks dla AI
 
-Repozytorium-źródło: perly-archiwum (PRYWATNE — ten indeks jest publicznym podsumowaniem).
+_Aktualizacja: 2026-11-20 · wersja 2_
 
-Liczba pereł (kod 1:1 zrzuconych na GitHub): 1716
+Repozytorium-źródło: `perly-archiwum` (PRYWATNE — ten plik jest publicznym indeksem/podsumowaniem).
 
-## Pereły — pełna lista nazw (owner__repo)
+**Liczba pereł (kod 1:1 na GitHub): 1716**
+
+## Pereły — pełna lista (owner__repo)
 
 - 01Leviathan10__linux-sys-bench
 - 0llrayll0__LOKI
@@ -1723,21 +1725,36 @@ Liczba pereł (kod 1:1 zrzuconych na GitHub): 1716
 - zyazhb__obsidian-webdav-e2ee-sync
 - zydbkqf__ext-onnxruntime
 
-## Umiejętności (skille) zainstalowane u agentów
+## Umiejętności (skille) agentów
 
-Kategorie: .archive, .bundled_manifest, .curator_backups, .curator_ledger.jsonl, .curator_state, .curator_suppressed, .hub, .locks, .usage.json, .usage.json.lock, agents, ai-seo, analytics, anti-hacking-measures, anti-steganography-gate, api-and-interface-design, api-designer, api-security, apple, auto-repair-patterns, autonomous-ai-agents, biblioteka-umiejetnosci, blockchain, brainstorming, business, byteplus-modelark, claude-code-skill-optimization, cms-migration, code-review, code-review-and-quality, communication, competitive-intelligence-batch, competitive-intelligence-pipeline, copywriting, creative, crm, cro, cron-job-fix-pattern, data-science, deep-extraction-prompt, deepseek-harness-integration, defuddle, delegation, deploy-to-vercel, devops, diagnosing-bugs, dobor-aplikacji-vps, dogfood, dyagil-supabase-security-audit, elevenlabs-voice-agents, elite-copywriter, email, executing-plans, finance, firecrawl-agent, flutter, flutter-adaptive-ui, flutter-app-builder, flutter-travel-app-tutorial, gaming, github, google-calendar-agent, grill-me-alias, grill-with-docs, handoff, health, herdr-all-skills, herdr-plan-act-mode.md, herdr-security-defense-playbook, herdr-telegram-integration.md, herdr-telegram-notifications.md, hermes-desktop-plugins, hermes-repo-discovery, json-canvas, julian-goldie-lead-generation, knap, knowledge-management, knowledge-to-project-interpreter, kurator-nocny-bazy-wiedzy, laptop-ollama-integration, legal, marketing, mcp, mcp-builder, media, migration, milestone-reward-system, mlops, model-router, modular-saas-architecture, monitoring-expert, multi-agent-brainstorming, multi-agent-orchestration, multi-project-manager, nauka, note-taking, obsidian-cli, obsidian-markdown, obsidian-raw-cache, owasp-mobile-security-checker, payments, product-marketing, productivity, quarantine-processing, red-teaming, requesting-code-review, research, resolving-merge-conflicts, reverse-engineering, scheduled-infra-audit, scrapling-web-scraping, secret-exposure-gate, secure-coding-practices, security, self-diagnosis-provider-fallback, self-diagnosis-resource-pressure, self-healing, self-healing-task-retry, self-hosted-agent-operations, self-improving-agent, seo-audit, session-logs-forensics, skills-better-accessibility, skills-better-colors, skills-better-interface, skills-better-layout, skills-better-typography, skills-better-ui, skills-better-writing, skills-break, skills-explain-interface, skills-interface-review, skills-variant, smart-home, social-media, software-development, spec-driven-development, subagent-clean-context, subagent-creator, supabase, supabase-auth, system-autorepair, systematic-debugging, tasklet-automation-templates, tasklet-thread-logging, tdd, test-driven-development, test-skill, thoughtspot-conversational-analytics, tiktok-ads-integration, to-spec, toolweb-digital-forensics-tools, toolweb-docker-hardening, umiejetnosci-zewnetrzne, vps-backup-restore, web, web-development, web-scrape-plus, wordpress, writing-plans, yuanbao
+- Kategorie skili: .archive, .curator_backups, .hub, .locks, agents, ai-seo, analytics, anti-hacking-measures, anti-steganography-gate, api-and-interface-design, api-designer, api-security, apple, auto-repair-patterns, autonomous-ai-agents, biblioteka-umiejetnosci, blockchain, brainstorming, business, byteplus-modelark, claude-code-skill-optimization, cms-migration, code-review, code-review-and-quality, communication, competitive-intelligence-batch, competitive-intelligence-pipeline, copywriting, creative, crm, cro, cron-job-fix-pattern, data-science, deep-extraction-prompt, deepseek-harness-integration, defuddle, delegation, deploy-to-vercel, devops, diagnosing-bugs, dobor-aplikacji-vps, dogfood, dyagil-supabase-security-audit, elevenlabs-voice-agents, elite-copywriter, email, executing-plans, finance, firecrawl-agent, flutter, flutter-adaptive-ui, flutter-app-builder, flutter-travel-app-tutorial, gaming, github, google-calendar-agent, grill-me-alias, grill-with-docs, handoff, health, herdr-all-skills, herdr-security-defense-playbook, hermes-desktop-plugins, hermes-repo-discovery, json-canvas, julian-goldie-lead-generation, knap, knowledge-management, knowledge-to-project-interpreter, kurator-nocny-bazy-wiedzy, laptop-ollama-integration, legal, marketing, mcp, mcp-builder, media, migration, milestone-reward-system, mlops, model-router, modular-saas-architecture, monitoring-expert, multi-agent-brainstorming, multi-agent-orchestration, multi-project-manager, nauka, note-taking, obsidian-cli, obsidian-markdown, obsidian-raw-cache, owasp-mobile-security-checker, payments, product-marketing, productivity, quarantine-processing, red-teaming, requesting-code-review, research, resolving-merge-conflicts, reverse-engineering, scheduled-infra-audit, scrapling-web-scraping, secret-exposure-gate, secure-coding-practices, security, self-diagnosis-provider-fallback, self-diagnosis-resource-pressure, self-healing, self-healing-task-retry, self-hosted-agent-operations, self-improving-agent, seo-audit, session-logs-forensics, skills-better-accessibility, skills-better-colors, skills-better-interface, skills-better-layout, skills-better-typography, skills-better-ui, skills-better-writing, skills-break, skills-explain-interface, skills-interface-review, skills-variant, smart-home, social-media, software-development, spec-driven-development, subagent-clean-context, subagent-creator, supabase, supabase-auth, system-autorepair, systematic-debugging, tasklet-automation-templates, tasklet-thread-logging, tdd, test-driven-development, test-skill, thoughtspot-conversational-analytics, tiktok-ads-integration, to-spec, toolweb-digital-forensics-tools, toolweb-docker-hardening, umiejetnosci-zewnetrzne, vps-backup-restore, web, web-development, web-scrape-plus, wordpress, writing-plans, yuanbao
 
-Skille agentowe (pakiety NVIDIA/skills 480 + FDEOps 36 + własne): 518 katalogów
+- Skille agentowe w /data/skills/agents: 518 pakietów/katalogów
 
-Pakiety agentowe: nvidia-* (CUDA/RAG/DeepStream/cuOpt), fdeops-* (wdrażanie), boring-marketing-* (marketing lokalny), ripwire, podloga-dysku-3gb itd.
+  - `nvidia-*` (480 skili: CUDA, RAG, DeepStream, cuOpt, TAO, DOCA, Holoscan, Jetson, NeMo) — Apache-2.0
+
+  - `fdeops-*` (36 skili: forward-deployed engineering) — MIT
+
+  - `boring-marketing-*` (32 skile marketingowe) — MIT
+
+  - własne: osint-pasywny-konkurencja, rozwoj-agenta, podloga-dysku-3gb, ripwire, llms-txt-for-herdr itd.
+
+
+## Gdzie jest pełna wiedza skili
+
+- Pełne treści skili: `/data/skills/` u Hermesa + `/root/skills/` na VPS (herdr i A0) — PRYWATNE
+
+- Karty pereł i notatki: repo `obsidian-vault` (PRYWATNE) — np. `06-Projekty/Skaut-GitHub/PERLY/`
+
+- Ten plik = jedyne publiczne okno (indeks, bez treści sekretów)
 
 
 ## Kontekst projektów
 
-- Mestio: system zarządzania wspólnotami mieszkaniowymi (dwupanel, KSeF FA(3), PDF/A-3, kolejka AI→człowiek, Mestio Remonty — licitacje 1% od umowy OBU stron)
+- **Mestio**: zarządzanie wspólnotami (dwupanel, KSeF FA(3), PDF/A-3, kolejka AI→człowiek, Mestio Remonty — licitacje 1% od umowy OBU)
 
-- Operator24: 'Bolt dla fachowców' (baza z kontaktem PL)
+- **Operator24**: 'Bolt dla fachowców' (baza kontaktów PL)
 
-- Strażnik: audyty cen energii C/B dla MŚP; Silnik faktur C/B
+- **Strażnik**: audyty cen energii C/B MŚP; silnik faktur C/B
 
-- Infrastruktura: Hermes + herdr + A0 na VPS Hostinger, Ollama (embeddingi), Gotenberg, Activepieces
+- **Infra**: Hermes + herdr + A0 na VPS Hostinger; Ollama (embeddingi); Gotenberg; Activepieces
